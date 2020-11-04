@@ -1,0 +1,49 @@
+body{
+    color: darkblue;
+    font-family: sans-serif;
+    font-size:14px;
+    line-height: 1.6;
+    background-color: aliceblue;
+    margin: auto;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    color:azure;
+    background-color:darkcyan;
+    padding:10px;
+    border-radius: 5px;
+}
+a{
+    color:darkblue;
+    background-color: cornflowerblue;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-right-radius: 5px;
+    text-decoration-line: none;
+    font-size:16px;
+    
+}
+#zero{
+    text-align: left;
+    width:67%;
+    
+}
+#two{
+    float:right;
+    width:30%;
+    
+}
+
+#divleft{
+          float=left;
+          width=65px;
+}
+
+#divright{
+           float=left;
+           width=28px;
+}
+
+

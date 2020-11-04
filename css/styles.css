@@ -1,0 +1,150 @@
+body{
+    color: darkblue;
+    font-family: sans-serif;
+    font-size:14px;
+    line-height: 1.6;
+    background-color:lightcyan;
+    margin: auto;
+    padding: 10px;
+}
+h1{
+    text-align: center;
+    color:azure;
+    background-color:darkcyan;
+    border-image-outset: 5px;
+    padding:10px;
+    border-radius: 5px;
+}
+
+a:link{
+    text-decoration: none
+}
+a:hover{
+    color:darkgray;
+    text-decoration: underline;
+    
+    
+}
+
+#divright{
+    text-align:left;
+    width=500px;
+}
+
+#divleft{
+    float:right;
+    padding-left: 10px;
+}
+.container1{
+    width=100%;
+    height: auto;
+    display:flex;
+    
+    
+}
+
+.box1{
+    width=40%:
+   box-sizing: border-box;
+    padding:10px;
+
+}
+
+.container2{
+    width=100%;
+    height: auto;
+    display:flex;
+    
+}
+
+.box2{
+    width=40%;
+   box-sizing: border-box;
+    padding:10px;
+}
+
+h3{
+    
+    color:azure;
+    background-color:darkseagreen;
+    padding:10px;
+    border-radius: 5px;
+    
+}
+
+h5{
+    
+    color:azure;
+    background-color:darkolivegreen;
+    padding:10px;
+    border-radius: 5px;
+    margin-right: 200px;
+}
+
+#unique{
+    text-indent: 70px;
+
+}
+
+#divleft{
+    padding-bottom: 1px;
+}
+
+.container{
+    width=100%;
+    height: auto;
+    display:flex;
+    
+    
+}
+
+.box{
+    width=40%:
+   box-sizing: border-box;
+    padding:10px;
+
+}
+
+button{
+    padding-top: 1px;
+    padding-bottom: 0px;
+    background-color: aquamarine;
+    border-radius: 5px;
+    margin-bottom: 3px;
+    margin-top: 3px;
+    
+}
+#last{
+    height: 35px;
+    background-color:lightslategray;
+}
+#last ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end;
+    font-size: 16px;
+}
+#last ul li{
+    list-style: none;
+    color: oldlace;
+
+
+
+
+
+
+
+
+
+
+ /*color:midnightblue;
+    background-color:aquamarine;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 4px; 
+    border-bottom-left-radius: 3px;
+    border-top-right-radius: 3px;
+    text-decoration-line: none;
+    font-size:16px;
+    
